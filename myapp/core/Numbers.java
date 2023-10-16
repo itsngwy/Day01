@@ -8,6 +8,7 @@ public class Numbers {
     public static void main(String[] args) {
 
         // Get the console
+        // Either use scanner or console to read. Or use both also can
         Scanner myInputs = new Scanner(System.in);
         Console cons = System.console();
 
